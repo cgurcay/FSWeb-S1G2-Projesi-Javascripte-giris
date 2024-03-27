@@ -19,6 +19,8 @@ Aşağıdakileri yap:
 
    İPUCU: fonksiyon oluşturmaya gerek yok
 */
+const surucuYasi = 33;
+console.log(surucuYasi > 18 ? true : false)
 
 /*
 Görev 1b - Değerler (puanlamaya dahil değildir)
