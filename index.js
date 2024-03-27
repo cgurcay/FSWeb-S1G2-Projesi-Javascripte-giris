@@ -33,6 +33,13 @@ Aşağıdakileri yap:
 
    İPUCU: fonksiyon oluşturmaya gerek yok
 */
+birinciDeger = 1;
+ikinciDeger = 2;
+
+if (birinciDeger === ikinciDeger) {
+    birinciDeger = ikinciDeger;
+    console.log(birinciDeger);
+}
 
 /*
 Görev 1c - String bir değeri Number'a dönüştürün (puanlamaya dahil değildir)
